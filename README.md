@@ -3,7 +3,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!%20&fontSize=85&fontAlignY=40&desc=Enjoy%20My%20GitHub:D&descSize=20&descAlign=50)
 # 🏃Chan solve🏃‍♂️
 <div align="center">
-<hr>
 
 
 <div align=center>
@@ -25,8 +24,9 @@
 > **일상과 취미!!👉 [instagram](https://www.instagram.com/icysol_27)👈**
 ---
 ## Status
-깃헙스테이터스를 넣어
-<hr>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksthf3211&show_icons=true&theme=great-gatsby)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cksthf3211&layout=compact&theme=great-gatsby)
+
 ## Tier
 백준을 넣어
 <hr>

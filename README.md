@@ -1,4 +1,8 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!%20&fontSize=85&fontAlignY=40&desc=Enjoy%20My%20GitHub:D&descSize=20&descAlign=50)
 # 🏃Chan solve🏃‍♂️
+<div align="center">
 <hr>
 
 
@@ -17,9 +21,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </div>
-<hr>
 
-> **저의 일상과 취미는 여기로!! [instagram](https://www.instagram.com/icysol_27)**
+> **일상과 취미!!👉 [instagram](https://www.instagram.com/icysol_27)👈**
 ---
 ## Status
 깃헙스테이터스를 넣어

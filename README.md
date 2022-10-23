@@ -16,7 +16,7 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 </div>
-Git, GitHub, Java Script, Python, Django, SQLite, HTML, CSS, Visual Studio Code
+
 
 > **저의 일상과 취미는 여기로!! [instagram](https://www.instagram.com/icysol_27)**
 ---

@@ -5,7 +5,7 @@
 
 
 
-
+<br>
 <h2>🪄Use Skills🪄</h2> 
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white"> 
@@ -22,6 +22,10 @@
 
 **일상과 취미!!👉 [instagram](https://www.instagram.com/icysol_27)👈**
 <br>
+<br>
+<hr>
+<br>
+
 
 ## 😊Status😊
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksthf3211&show_icons=true&theme=great-gatsby)<br>
@@ -38,7 +42,7 @@
 - 누구나 다 할 수 있다고 생각하지만, 인내심을 갖고 끝까지 해낼 수 있는건 누구나 할 수는 없다.<br>
 - 맨땅에서 시작해 알고리즘의 고난과 벽을 느끼면서, 멈추지 말고 조바심도 갖지 말고 나만의 페이스를 갖자.<br>
 - 나의 장점인 끈기와 꾸준함으로 포기하지 않고 멀리 가자.
-<hr>
+<br>
 <br>
 
 ## 🌻My resolution🌼

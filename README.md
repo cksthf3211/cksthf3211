@@ -6,7 +6,7 @@
 
 
 
-<h3>🪄Use Skills🪄</h3> 
+<h2>🪄Use Skills🪄</h2> 
 
 <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VSCode&logoColor=white"> 
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
 
 
-> **일상과 취미!!👉 [instagram](https://www.instagram.com/icysol_27)👈**
+**일상과 취미!!👉 [instagram](https://www.instagram.com/icysol_27)👈**
 <br>
 
 ## 😊Status😊

@@ -1,12 +1,11 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!%20&fontSize=85&fontAlignY=40&desc=Enjoy%20My%20GitHub:D&descSize=20&descAlign=50)
-# 🏃Chan solve🏃‍♂️
-</div>
+# <h1>🏃Chan solve🏃‍</h1>
 
 
 
-<div align=center>
+
 <h3>🪄Use Skills🪄</h3> 
 
 <p>
@@ -20,7 +19,7 @@
 <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-</div>
+
 
 > **일상과 취미!!👉 [instagram](https://www.instagram.com/icysol_27)👈**
 <br>
@@ -29,7 +28,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksthf3211&show_icons=true&theme=great-gatsby)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cksthf3211&layout=compact&theme=great-gatsby)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksthf3211)](https://solved.ac/cksthf3211/)
-
+</div>
 <br>
 <hr>
 <br>

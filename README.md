@@ -2,7 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Welcome!%20&fontSize=85&fontAlignY=40&desc=Enjoy%20My%20GitHub:D&descSize=20&descAlign=50)
 # 🏃Chan solve🏃‍♂️
-<div align="center">
+</div>
+
 
 
 <div align=center>

@@ -25,11 +25,11 @@
 > **일상과 취미!!👉 [instagram](https://www.instagram.com/icysol_27)👈**
 ---
 ## Status
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksthf3211&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cksthf3211&show_icons=true&theme=great-gatsby)<br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cksthf3211&layout=compact&theme=great-gatsby)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=cksthf3211)](https://solved.ac/cksthf3211/)
 
-## Tier
-백준을 넣어
+
 <hr>
 
 ## 누구나 할 수 있지만, 누구나 할 수는 없다.

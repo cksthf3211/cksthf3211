@@ -53,3 +53,7 @@
 - 많이 듣고, 많이 보고, 알고리즘을 많이 풀어라.
 
 ![버그](README.assets/버그.jpg)
+<br>
+<br>
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=footer)
